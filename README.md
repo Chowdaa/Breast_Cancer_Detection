@@ -65,7 +65,7 @@ A deep learning-based web application that detects breast cancer from histopatho
 - 🏫 **GITAM School of Technology**  
 - 👨‍🏫 Guided by **Prof. Sangameshwar**  
 - 📆 Final Year B.Tech (Computer Science) — Class of 2025  
-- 👨‍💻 Developed by **Chowda Reddy N**
+- 👨‍💻 Developed by **Chowda Reddy N** and **N Swaroopa**
 
 ---
 
