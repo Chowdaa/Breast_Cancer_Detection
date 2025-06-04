@@ -75,8 +75,9 @@ A deep learning-based web application that detects breast cancer from histopatho
      ```bash
      git clone https://github.com/your-username/breast-cancer-classification.git
      cd breast-cancer-classification
+     
   2. **Create a virtual environment (optional but recommended)**
-    ```bash
+    
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
   
@@ -85,7 +86,7 @@ A deep learning-based web application that detects breast cancer from histopatho
     pip install -r requirements.txt
   
   4. **Run the Streamlit app**
-    ```bash
+   
     streamlit run app.py
 
 📦 requirements.txt
