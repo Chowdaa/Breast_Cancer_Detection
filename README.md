@@ -89,25 +89,24 @@ A deep learning-based web application that detects breast cancer from histopatho
    
     streamlit run app.py
 
-##📦 requirements.txt
+📦 requirements.txt
 
-streamlit
-tensorflow
-opencv-python
-numpy
-pillow
-matplotlib
+streamlit  
+tensorflow  
+opencv-python  
+numpy  
+pillow  
+matplotlib  
 
-##🤝 Acknowledgements
-Kaggle - BreaKHis Dataset
+🤝 Acknowledgements  
+Kaggle - BreaKHis Dataset  
+GITAM School of Technology, Bangalore  
+Prof. Sangameshwar, for academic guidance  
 
-GITAM School of Technology, Bangalore
+📜 License  
+This project is open-source and available under the MIT License.  
 
-Prof. Sangameshwar, for academic guidance
-
-##📜 License
-This project is open-source and available under the MIT License.
-
-##🙋‍♂️ Connect With Me
-Chowda Reddy N
-Final Year B.Tech CSE | Full Stack Enthusiast | AI Explorer | 💬 Email: [reddyreddy44477@gmail.com]
+🙋‍♂️ Connect With Me  
+Chowda Reddy N  
+Final Year B.Tech CSE | Full Stack Enthusiast | AI Explorer  
+💬 Email: reddyreddy44477@gmail.com  
